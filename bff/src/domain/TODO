@@ -1,0 +1,6 @@
+// TODO
+Crear el Model, controller y servicio
+
+En el sercivio, se busca el Post a traves del ID,
+Tambien se localiza el Usuario del Post
+Mas todo los Commentarios para luego ponerlo en un Objecto
